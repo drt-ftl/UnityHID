@@ -1,0 +1,148 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Xml.dll (this message is harmless)
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Xml.dll (this message is harmless)
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Xml.dll (this message is harmless)
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll (this message is harmless)
+Loading C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\HidDllDrt.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Builds\SocketHID_Data\Managed\System.Xml.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UDPReceive.EndIt () [0x00000] in <filename unknown>:0 
+  at UDPReceive.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

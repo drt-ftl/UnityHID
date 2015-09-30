@@ -1,0 +1,22 @@
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\bin\Debug\UnityTalkAndListen.exe
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\bin\Debug\UnityTalkAndListen.pdb
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\bin\Debug\HidDllDrt.dll
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.exe
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.pdb
+C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\exes\UnityTalkAndListen.exe
+C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\exes\UnityTalkAndListen.pdb
+C:\Users\David\Documents\Unity5\HID Unity 5\HIDCom2\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Assets\UnityTalkAndListen.exe
+C:\Users\David\Documents\Unity5\HID Unity 5\HID Unity5\Assets\UnityTalkAndListen.pdb
+C:\Users\David\Documents\GitHub\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.exe
+C:\Users\David\Documents\GitHub\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.pdb
+C:\Users\David\Documents\GitHub\HID Unity5\Assets\UnityTalkAndListen.exe
+C:\Users\David\Documents\GitHub\HID Unity5\Assets\UnityTalkAndListen.pdb
+C:\Users\David\Documents\GitHub\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\UnityHID\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.exe
+C:\Users\David\Documents\GitHub\UnityHID\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.pdb
+C:\Users\David\Documents\GitHub\UnityHID\HID Unity5\Assets\UnityTalkAndListen.exe
+C:\Users\David\Documents\GitHub\UnityHID\HID Unity5\Assets\UnityTalkAndListen.pdb
+C:\Users\David\Documents\GitHub\UnityHID\UnityHID\UnityTalkAndListen\obj\x86\Debug\UnityTalkAndListen.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\UnityHID\UnityHID\HID Unity5\Assets\UnityTalkAndListen.exe
+C:\Users\David\Documents\GitHub\UnityHID\UnityHID\HID Unity5\Assets\UnityTalkAndListen.pdb
