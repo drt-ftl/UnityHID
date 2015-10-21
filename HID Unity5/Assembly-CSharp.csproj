@@ -49,8 +49,7 @@
      <Compile Include="Assets\Scripts\UDPReceive.cs" />
      <Compile Include="Assets\Scripts\UDPSend.cs" />
      <Compile Include="Assets\Scripts\Worker.cs" />
-     <Compile Include="Assets\Test.cs" />
-     <Compile Include="Assets\guiWindow.cs" />
+     <Compile Include="Assets\Scripts\guiWindow.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -61,10 +60,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="HidDllDrt">
- <HintPath>C:/Users/David/Documents/GitHub/UnityHID/HID Unity5/Assets/HidDllDrt.dll</HintPath>
- </Reference>
- <Reference Include="UnityTalkerDll">
- <HintPath>C:/Users/David/Documents/GitHub/UnityHID/HID Unity5/Assets/UnityTalkerDll.dll</HintPath>
+ <HintPath>C:/Users/David/Documents/GitHub/UnityHID/UnityHID/HID Unity5/Assets/HidDllDrt.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
